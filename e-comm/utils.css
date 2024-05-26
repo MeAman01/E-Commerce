@@ -29,3 +29,7 @@ justify-content: space-between;
     text-transform: uppercase;
     cursor: pointer;
 }
+
+.mx-2:hover{
+    font-size: 20px;
+}
